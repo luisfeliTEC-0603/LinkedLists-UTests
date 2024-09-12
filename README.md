@@ -8,7 +8,7 @@ The following is a project with emphasis on unit testing and the implementation 
 - _**.NET 8 SDK**_.: Ensure .NET 8 SDK is installed on your system.
 
 ## Functionality
-## Data Structure Operations 
+### Data Structure Operations 
 The data structure used includes essential operations such as.:
 - Insertion
 - Deletion 
