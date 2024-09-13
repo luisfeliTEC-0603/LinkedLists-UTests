@@ -1,0 +1,12 @@
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\bin\Debug\net8.0\Data_Structures.deps.json
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\bin\Debug\net8.0\Data_Structures.dll
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\bin\Debug\net8.0\Data_Structures.pdb
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\Data_Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\Data_Structures.AssemblyInfoInputs.cache
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\Data_Structures.AssemblyInfo.cs
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\Data_Structures.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\Data_Structures.sourcelink.json
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\Data_Structures.dll
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\refint\Data_Structures.dll
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\Data_Structures.pdb
+C:\Users\Hewlett Packard\Desktop\Extraclass II\LinkedLists-UTests\Data_Structures\obj\Debug\net8.0\ref\Data_Structures.dll
